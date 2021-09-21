@@ -1,4 +1,4 @@
-<p>- 👋 Hi, I’m <h1>@JorgeQomov</h1></p>
+- 👋 Hi, I’m @JorgeQomov
 - 👀 I’m interested in front-end development and graphic design
 - 🌱 I’m currently learning UX Design
 - 💞️ I’m looking to collaborate on front-end development
